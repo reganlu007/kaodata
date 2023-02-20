@@ -46,14 +46,4 @@ Early KOEI Games Data Research (Cite: https://github.com/tzengyuxio/kaodata)
 | KOUKAI4   | 大航海時代四　　　　 | 1999 | .           |     |  64 *  80 |      |  
 
 * 「年份」無特別標示者均為 DOS 或 Windows 平台的首發行年份
-
-### Notes
-
-* Steam 版 SAN1、SAN2 使用的是 PC-9801 版本
-* SAN1 DOS 版 (Eng.) 與 Steam/PC98 版，除了顏色的差別（4 色 vs 8 色）外，顏良 (No.41) 頭盔也是一個差別
-* 上面兩個版本在大眾臉武將處的空白也有差異
-* SAN2 DOS 版 與 Steam/PC98 版，人物大致相同但有差異，前者感覺大小比較一致
-* SAN2 DOS 版 與 Steam/PC98 版，關羽的帽子的顏色不同，張飛的帽子的顏色不同（前藍後紅）
-
-## Fonts 字庫
-
+* 
