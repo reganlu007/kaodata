@@ -5,7 +5,7 @@ Early KOEI Games Data Research (Cite: https://github.com/tzengyuxio/kaodata)
 ## Face
 
 | Game ID   | Name | Year | File | Ext | Size | Men | Memo
-| -------   | ---- | ---- | ---- | --- | ---- | --: | ----
+| -------   | ---- | ---- | ---- | --- | :--: | --: | ----
 | SAN1      | 三國志一　　　　　　 | 1985 | PICDATA     | DAT |  48 *  40 |  114 | 乘兩倍高，檔案後面有其他圖
 | SAN2      | 三國志二　　　　　　 | 1989 | KAODATA     | DAT |  64 *  40 |  219 | 乘兩倍高
 | SAN3      | 三國志三　　　　　　 | 1992 | KAODATA     | DAT |  64 *  80 |  307 | 
