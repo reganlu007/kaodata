@@ -13,10 +13,10 @@ Early KOEI Games Data Research (Cite: https://github.com/tzengyuxio/kaodata)
 | SAN4PK    | 三國志四威加版　　　 | 1994 | KAODATA2    | S4  |  64 *  80 |  320 | 三代與水滸人物
 | SAN5      | 三國志五　　　　　　 | 1995 | KAODATA     | S5  |  64 *  80 |  783 | 
 | SAN5PK    | 三國志五威加版　　　 | 1995 | KAOEX       | S5  |  64 *  80 |  382 | 四代、項劉、信長、水滸人物
-| SAN6      | 三國志六　　　　　　 | 1998 | KAODATA     | S6  |  96 * 120 |  685 | 首張非頭像
-| SAN6PK    | 三國志六威加版　　　 | 1998 | KAOEX       | S6  |  96 * 120 |  685 | 首張非頭像
-| SAN7      | 三國志七　　　　　　 | 2000 | KAODATA     | S7  |  96 * 120 |  678 | 
-| SAN7PK    | 三國志七威加版　　　 | 2000 | KAOEX       | S7  |  96 * 120 |      | 
+| SAN6      | 三國志六　　　　　　 | 1998 | KAODATA     | S6  | 096 * 120 |  685 | 首張非頭像
+| SAN6PK    | 三國志六威加版　　　 | 1998 | KAOEX       | S6  | 096 * 120 |  685 | 首張非頭像
+| SAN7      | 三國志七　　　　　　 | 2000 | KAODATA     | S7  | 096 * 120 |  678 | 
+| SAN7PK    | 三國志七威加版　　　 | 2000 | KAOEX       | S7  | 096 * 120 |      | 
 | SAN8      | 三國志八　　　　　　 | 2001 | G_MAINDY    | S8  | 160 * 180 |  746 | 小圖 64 * 80
 | SAN8PK    | 三國志八威加版　　　 | 2007 | G_MAINDY    | S8  | 160 * 180 |  746 | 小圖 64 * 80
 | SAN9      | 三國志九　　　　　　 | 2003 | G_FACE      | S9  | 240 * 240 |  786 | 小圖 64 * 80，奈圖 32 * 40
