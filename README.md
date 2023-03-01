@@ -46,4 +46,16 @@ Early KOEI Games Data Research (Cite: https://github.com/tzengyuxio/kaodata)
 | KOUKAI4   | 大航海時代四　　　　 | 1999 | .           |     |     *     |      |  
 
 * 「年份」無特別標示者均為 DOS 或 Windows 平台的首發行年份
-* 
+
+## Fonts 字庫
+
+| VOL | ID | Name
+| :-: | -- | ----
+|  1  | NOBU2   / ISHIN    / ININDO   | 信長之野望：全國版／維新之嵐／伊忍道
+|  2  | SAN1    / ROYAL    / EUROPE   | 三國志一　／王國興亡錄／歐陸戰線
+|  3  | GENGHIS / DAIKOKAI / LEMPE    | 成吉思汗二／大航海時代一／拿破崙
+|  4  | NOBU3   / GENPEI   / EIKETSU  | 信長之野望：戰國群雄傳／源平合戰／三國志英傑傳
+|  5  | SAN2    / TAIKOH   / KOHRYUKI | 三國志二　／太閣立志傳／項劉記
+|  6  | WINNING / SUIKODEN / GENCHOH  | 賽馬大亨　／水滸傳：天命之誓／成吉思汗三
+|  7  | BUSHOH  / DAIKOH2  / AIR2     | 信長之野望：武將風雲錄／大航海時代二／航空霸業二
+
